@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.jcabi</groupId>
             <artifactId>jcabi-http</artifactId>
-            <version>1.10.2</version>
+            <version>1.17.2</version>
         </dependency>
     </dependencies>
 </project>
