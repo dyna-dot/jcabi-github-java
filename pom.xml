@@ -169,7 +169,7 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpcore</artifactId>
-      <version>4.4.6</version>
+      <version>4.4.12</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
